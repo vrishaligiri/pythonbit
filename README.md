@@ -1,2 +1,2 @@
-# pythonbit
-Small python codes for learning Deep learnign / Machine learning concepts
+# Pyhton Code Chunks
+Few lines python code examples for learning Deep learnign / Machine learning concepts
